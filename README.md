@@ -9,7 +9,6 @@ This project demonstrates how to use a Decision Tree Classifier to predict wheth
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Results](#results)
-- [License](#license)
 
 ## Overview
 
